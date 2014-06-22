@@ -22,3 +22,5 @@ so that they don't have to type the same things over and over again.
 7.  [Finding Things](06-find.html)
 
 </div>
+
+You may find it convenient to download the zip file [shell-example-data.zip](shell-example-data.zip) that contains various directory hierarchies used as examples.
